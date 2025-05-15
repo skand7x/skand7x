@@ -6,7 +6,8 @@
 
 I'm a passionate Python developer with a focus on data science, AI, machine learning, and MicroPython robotics. I love building intelligent systems and automating tasks to solve real-world problems.
 
-- 🔭 I’m currently working on Axion (https://github.com/skand7x/Axion.git) and CryptoCoins (https://cryptocoins-g07f.onrender.com/)
+- 🔭 I’m currently working on Axion [https://github.com/skand7x/Axion.git] and CryptoCoins [https://cryptocoins-g07f.onrender.com/]
+- Checkout typr [https://github.com/skand7x/typr] and [https://www.youtube.com/@Skand7x]
 
 
 
